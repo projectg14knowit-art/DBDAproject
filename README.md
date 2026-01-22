@@ -1,4 +1,4 @@
-# DBDAproject
+# DBDA Project
 
 
 ## Project Title -: Credit Risk Analysis for Loan Applicants
